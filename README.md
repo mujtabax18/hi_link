@@ -4,4 +4,4 @@ this project is developed for the client in which all four buttons take you exte
 
 ## Output
 
-![App Screen Shot](image/ss.PNG)
+![App Screen Shot](images/ss.PNG)
